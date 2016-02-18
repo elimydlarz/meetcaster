@@ -3,11 +3,11 @@
 ## Running the specs
 
 ```
-./specs.sh
+rspec
 ```
 
 ## Starting the app
 
 ```
-./start.sh
+ruby meetcaster.rb
 ```
