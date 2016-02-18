@@ -1,3 +1,6 @@
 # IntelliJ nonsense
 .idea
 *.iml
+
+# Byebug nonsense
+.byebug_history
