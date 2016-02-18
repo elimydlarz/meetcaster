@@ -1,8 +1,13 @@
 # MeetCaster
 
-## Starting the App
+## Running the specs
+
+```
+./specs.sh
+```
+
+## Starting the app
 
 ```
 ./start.sh
 ```
-
